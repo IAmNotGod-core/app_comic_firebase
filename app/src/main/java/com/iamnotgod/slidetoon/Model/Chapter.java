@@ -3,8 +3,8 @@ package com.iamnotgod.slidetoon.Model;
 import java.util.List;
 
 public class Chapter {
-    public String name;
-    public List<String> url;
+    public String Name;
+    public List<String> Link;
 
     public Chapter() {
     }
